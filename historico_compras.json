@@ -1,0 +1,14 @@
+[
+    {
+        "cliente": "Jo\u00e3o",
+        "idade": 30,
+        "compras": [
+            {
+                "nome_produto": "iphone rosa",
+                "preco": 801,
+                "secao": "Eletr\u00f4nicos"
+            }
+        ],
+        "total": 801
+    }
+]
