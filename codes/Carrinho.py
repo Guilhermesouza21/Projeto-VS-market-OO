@@ -29,9 +29,6 @@ class Carrinho:
             print("Carrinho vazio! Não é possível realizar o pagamento.")
             return False
         return True
-    
-#teste github
-
 
     
       
