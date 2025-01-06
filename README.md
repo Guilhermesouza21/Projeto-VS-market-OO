@@ -58,19 +58,20 @@ Depois de executar o código com o comando:
 python main.py
 
 
-Escolher seção:
+# Funcionalidades do Sistema
 
-O sistema exibirá uma lista de seções disponíveis, como "Eletrônicos", "Livros", etc.
-Você deve selecionar uma seção digitando o número correspondente.
-Após escolher, poderá pesquisar produtos dentro dessa seção.
-Interagir com o carrinho:
+## Escolher Seção
+- O sistema exibirá uma lista de seções disponíveis, como **"Eletrônicos"**, **"Livros"**, etc.
+- Você deve selecionar uma seção digitando o número correspondente.
+- Após escolher, será possível pesquisar produtos dentro dessa seção.
 
-Permite gerenciar os produtos no carrinho com as seguintes opções:
-Ver os produtos adicionados ao carrinho.
-Remover produtos pelo nome.
-Ver o total acumulado no carrinho.
-Finalizar a compra e salvar o histórico.
-Sair:
+## Interagir com o Carrinho
+- Permite gerenciar os produtos no carrinho com as seguintes opções:
+  - **Ver os produtos adicionados ao carrinho.**
+  - **Remover produtos pelo nome.**
+  - **Ver o total acumulado no carrinho.**
+  - **Finalizar a compra e salvar o histórico.**
 
-Encerra o sistema e retorna ao terminal.
+## Sair
+- Encerra o sistema e retorna ao terminal.
 
