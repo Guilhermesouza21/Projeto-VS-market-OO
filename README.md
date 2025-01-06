@@ -47,31 +47,26 @@ Bem-vindo ao **VS Market**, um sistema de compras simulado que permite a intera�
    ```bash
    git clone <url-do-repositorio>
    cd <nome-do-diretorio>
+   execute o arquivo main.py
 
 ---
 
 ## Como Usar o Sistema
 
-Depois de executar o código com o comando:
+Depois de executar o código com o comando
 
-```bash
-python main.py
-
-
-# Funcionalidades do Sistema
-
-## Escolher Seção
+## 1.Escolher Seção
 - O sistema exibirá uma lista de seções disponíveis, como **"Eletrônicos"**, **"Livros"**, etc.
 - Você deve selecionar uma seção digitando o número correspondente.
 - Após escolher, será possível pesquisar produtos dentro dessa seção.
 
-## Interagir com o Carrinho
+## 2.Interagir com o Carrinho
 - Permite gerenciar os produtos no carrinho com as seguintes opções:
   - **Ver os produtos adicionados ao carrinho.**
   - **Remover produtos pelo nome.**
   - **Ver o total acumulado no carrinho.**
   - **Finalizar a compra e salvar o histórico.**
 
-## Sair
+## 3.Sair
 - Encerra o sistema e retorna ao terminal.
 
