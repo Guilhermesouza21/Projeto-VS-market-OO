@@ -4,11 +4,11 @@
         "idade": 30,
         "compras": [
             {
-                "nome_produto": "iphone rosa",
-                "preco": 801,
+                "nome_produto": "ss",
+                "preco": 898,
                 "secao": "Eletr\u00f4nicos"
             }
         ],
-        "total": 801
+        "total": 898
     }
 ]
